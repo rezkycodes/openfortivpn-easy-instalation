@@ -1,0 +1,10 @@
+# Environment files dengan kredensial sensitif
+.env.openfortivpn
+*.env
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*~
