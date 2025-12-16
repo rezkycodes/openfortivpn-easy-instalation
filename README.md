@@ -395,8 +395,8 @@ Service akan otomatis reconnect jika koneksi terputus.
 ## 📞 Support
 
 Untuk bantuan lebih lanjut:
-- **Email**: support@example.com
-- **Developer**: RezkyCoder
+- **Email**: rezyk.codes@gmail.com
+- **Developer**: RezkyCodes
 - **Issues**: Laporkan bug atau request fitur
 
 ## 📄 License
